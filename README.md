@@ -1,2 +1,3 @@
 # hello-world
 Initial experiments and crazy ideas end up here, I guess...
+Essentially this is just like a shared Google Doc?
